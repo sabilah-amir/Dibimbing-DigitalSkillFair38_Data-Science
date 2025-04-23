@@ -4,5 +4,5 @@ This repository contains a data science project conducted as part of the Digital
 
 
 The Titanic disaster serves as a classic case study for data analysis and machine learning. This project aims to:
-*Clean and preprocess the dataset to handle missing or inconsistent data.
+\cdotClean and preprocess the dataset to handle missing or inconsistent data.
 *Explore the data through visualizations and statistical analysis.
